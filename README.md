@@ -9,7 +9,6 @@ Features
 Technologies Used
 - HTML5 
 - CSS
-- 
 Code Structure
 - Organized HTML structure for easy readability
 - Modular CSS classes for simple styling and maintainability
