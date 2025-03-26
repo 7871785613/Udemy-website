@@ -7,8 +7,9 @@ Features
 - Fully functional navbar with dropdown menus
 
 Technologies Used
-- HTML5 
+- HTML
 - CSS
+
 Code Structure
 - Organized HTML structure for easy readability
 - Modular CSS classes for simple styling and maintainability
